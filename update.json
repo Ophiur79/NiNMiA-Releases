@@ -1,9 +1,9 @@
 {
-    "sha256":  "4cd9891bee9c099bf063e8bb9354f73a2ee5a3f4c45bb2419a9b3e07a39a9fc5",
-    "apk":  "NiNMiA-0.9.35-beta.apk",
-    "versionName":  "0.9.35",
-    "channel":  "beta",
-    "downloadUrl":  "https://github.com/Ophiur79/NiNMiA-Releases/releases/download/v0.9.35-beta/NiNMiA-0.9.35-beta.apk",
-    "versionCode":  104,
-    "releaseNotes":  "NiNMiA v0.9.35-beta Beta Release"
+    "sha256":  "8182ec3906db9512042e3172f2c3cb2fe13d46368c4fd43d29723d7fa140a4b0",
+    "apk":  "NiNMiA-1.0.0.apk",
+    "versionName":  "1.0.0",
+    "channel":  "stable",
+    "downloadUrl":  "https://github.com/Ophiur79/NiNMiA-Releases/releases/download/v1.0.0/NiNMiA-1.0.0.apk",
+    "versionCode":  105,
+    "releaseNotes":  "NiNMiA v1.0.0 Official Stable Release"
 }
